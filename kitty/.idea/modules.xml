@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/kitty.iml" filepath="$PROJECT_DIR$/kitty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kitty-admin/kitty-admin.iml" filepath="$PROJECT_DIR$/kitty-admin/kitty-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kitty-backup/kitty-backup.iml" filepath="$PROJECT_DIR$/kitty-backup/kitty-backup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kitty-common/kitty-common.iml" filepath="$PROJECT_DIR$/kitty-common/kitty-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kitty-conifg/kitty-conifg.iml" filepath="$PROJECT_DIR$/kitty-conifg/kitty-conifg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kitty-consul/kitty-consul.iml" filepath="$PROJECT_DIR$/kitty-consul/kitty-consul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kitty-consumer/kitty-consumer.iml" filepath="$PROJECT_DIR$/kitty-consumer/kitty-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kitty-core/kitty-core.iml" filepath="$PROJECT_DIR$/kitty-core/kitty-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kitty-hystrix/kitty-hystrix.iml" filepath="$PROJECT_DIR$/kitty-hystrix/kitty-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kitty-monitor/kitty-monitor.iml" filepath="$PROJECT_DIR$/kitty-monitor/kitty-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kitty-producer/kitty-producer.iml" filepath="$PROJECT_DIR$/kitty-producer/kitty-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kitty-producer2/kitty-producer2.iml" filepath="$PROJECT_DIR$/kitty-producer2/kitty-producer2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kitty-zipkin/kitty-zipkin.iml" filepath="$PROJECT_DIR$/kitty-zipkin/kitty-zipkin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kitty-zuul/kitty-zuul.iml" filepath="$PROJECT_DIR$/kitty-zuul/kitty-zuul.iml" />
+    </modules>
+  </component>
+</project>

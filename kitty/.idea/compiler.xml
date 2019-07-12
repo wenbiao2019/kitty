@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="kitty-admin" />
+        <module name="kitty-backup" />
+        <module name="kitty-monitor" />
+        <module name="kitty-core" />
+        <module name="kitty-consumer" />
+        <module name="kitty-conifg" />
+        <module name="kitty-common" />
+        <module name="kitty-producer" />
+        <module name="kitty-hystrix" />
+        <module name="kitty-producer2" />
+        <module name="kitty-zuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="kitty-admin" target="1.8" />
+      <module name="kitty-backup" target="1.8" />
+      <module name="kitty-common" target="1.8" />
+      <module name="kitty-conifg" target="1.8" />
+      <module name="kitty-consul" target="1.8" />
+      <module name="kitty-consumer" target="1.8" />
+      <module name="kitty-core" target="1.8" />
+      <module name="kitty-hystrix" target="1.8" />
+      <module name="kitty-monitor" target="1.8" />
+      <module name="kitty-producer" target="1.8" />
+      <module name="kitty-producer2" target="1.8" />
+      <module name="kitty-zipkin" target="1.8" />
+      <module name="kitty-zuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="kitty-admin" options="-parameters" />
+      <module name="kitty-backup" options="-parameters" />
+      <module name="kitty-common" options="-parameters" />
+      <module name="kitty-conifg" options="-parameters" />
+      <module name="kitty-consumer" options="-parameters" />
+      <module name="kitty-core" options="-parameters" />
+      <module name="kitty-hystrix" options="-parameters" />
+      <module name="kitty-monitor" options="-parameters" />
+      <module name="kitty-producer" options="-parameters" />
+      <module name="kitty-producer2" options="-parameters" />
+      <module name="kitty-zuul" options="-parameters" />
+    </option>
+  </component>
+</project>

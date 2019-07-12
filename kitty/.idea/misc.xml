@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/kitty-common/pom.xml" />
+        <option value="$PROJECT_DIR$/kitty-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/kitty-backup/pom.xml" />
+        <option value="$PROJECT_DIR$/kitty-conifg/pom.xml" />
+        <option value="$PROJECT_DIR$/kitty-consul/pom.xml" />
+        <option value="$PROJECT_DIR$/kitty-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/kitty-core/pom.xml" />
+        <option value="$PROJECT_DIR$/kitty-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/kitty-monitor/pom.xml" />
+        <option value="$PROJECT_DIR$/kitty-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/kitty-producer2/pom.xml" />
+        <option value="$PROJECT_DIR$/kitty-zipkin/pom.xml" />
+        <option value="$PROJECT_DIR$/kitty-zuul/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_12" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
