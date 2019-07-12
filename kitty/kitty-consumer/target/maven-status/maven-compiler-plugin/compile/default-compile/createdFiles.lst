@@ -1,0 +1,9 @@
+com\louis\kitty\consumer\feign\KittyProducerService.class
+com\louis\kitty\consumer\controller\CallHelloController.class
+com\louis\kitty\consumer\controller\ServiceController.class
+com\louis\kitty\consumer\KittyConsumerApplication.class
+com\louis\kitty\consumer\RetryConfiguration.class
+com\louis\kitty\consumer\controller\FeignHelloController.class
+com\louis\kitty\consumer\controller\RibbonHelloController.class
+com\louis\kitty\consumer\controller\SpringConfigController.class
+com\louis\kitty\consumer\feign\KittyProducerHystrix.class

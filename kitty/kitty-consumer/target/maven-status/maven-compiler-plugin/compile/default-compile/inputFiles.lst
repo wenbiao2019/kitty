@@ -1,0 +1,9 @@
+F:\git\kitty\kitty\kitty-consumer\src\main\java\com\louis\kitty\consumer\controller\ServiceController.java
+F:\git\kitty\kitty\kitty-consumer\src\main\java\com\louis\kitty\consumer\controller\FeignHelloController.java
+F:\git\kitty\kitty\kitty-consumer\src\main\java\com\louis\kitty\consumer\RetryConfiguration.java
+F:\git\kitty\kitty\kitty-consumer\src\main\java\com\louis\kitty\consumer\KittyConsumerApplication.java
+F:\git\kitty\kitty\kitty-consumer\src\main\java\com\louis\kitty\consumer\controller\RibbonHelloController.java
+F:\git\kitty\kitty\kitty-consumer\src\main\java\com\louis\kitty\consumer\controller\SpringConfigController.java
+F:\git\kitty\kitty\kitty-consumer\src\main\java\com\louis\kitty\consumer\feign\KittyProducerHystrix.java
+F:\git\kitty\kitty\kitty-consumer\src\main\java\com\louis\kitty\consumer\controller\CallHelloController.java
+F:\git\kitty\kitty\kitty-consumer\src\main\java\com\louis\kitty\consumer\feign\KittyProducerService.java
