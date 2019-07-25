@@ -34,6 +34,8 @@ QQ技术交流群： 528818161
 
 - shiro: 基于Spring Boot + Shiro，不包含 Spring Cloud，部署环境稍微简单一点
 
+- idea: IDEA项目结构代码，使用IDEA作为开发IDE的朋友可以使用此分支快速导入IDEA
+
 ### 项目介绍
 
 - Kitty是基于Spring Boot、Spring Cloud、Vue、Element实现的Java快速开发平台。
